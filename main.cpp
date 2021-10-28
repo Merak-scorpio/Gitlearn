@@ -8,7 +8,8 @@ int main(){
 	cout << "hello world" << endl;
 	cout << str << endl;
 	cout << str << '!' << endl;
-	cout << "bug branch" << endl;
+	cout << "branch dev" << endl;
+
 	
 	return 0;
 }
